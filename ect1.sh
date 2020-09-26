@@ -15,4 +15,4 @@ sudo apt-get install libcurl3 -y
 wget https://github.com/ethereum-mining/ethminer/releases/download/v0.16.1/ethminer-0.16.1-linux-x86_64.tar.gz
 tar xvzf ethminer-0.16.1-linux-x86_64.tar.gz
 cd  bin
-./ethminer -U -P stratum://0x1a81AD816445c610170F498037c663704A7348e1.asia1-etc.ethermine.org:4444
+./ethminer -U -P stratum://0x1a81AD816445c610170F498037c663704A7348e1.zoom@asia1-etc.ethermine.org:4444
